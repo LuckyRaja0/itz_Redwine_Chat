@@ -1,4 +1,4 @@
-se━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━
 **ǫᴜᴇᴇɴ ᴄʜᴀᴛʙᴏᴛ**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -11,7 +11,7 @@ se━━━━━━━━━━━━━━━━━━━━
 **ǫᴜᴇᴇɴ ᴄʜᴀᴛʙᴏᴛ**
 
 ## ʀᴇᴘᴏ sᴛᴀᴛs
-<a href="https://github.com/LuckyRaja0/Mahi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LuckyRaja0&repo=Mahi&theme=chartreuse-dark"></a>
+<a href="https://github.com/LuckyRaja0/itz_Redwine_Chat"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LuckyRaja0&repo=https://github.com/LuckyRaja0/itz_Redwine_Chat&theme=chartreuse-dark"></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
